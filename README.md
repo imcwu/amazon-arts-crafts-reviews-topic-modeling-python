@@ -1,7 +1,10 @@
-# amazon-arts-crafts-reviews-topic-modeling-python
+## amazon-arts-crafts-reviews-topic-modeling-python
 In this project, I conducted topic modeling using Latent Semantic Analysis and Latent Dirichlet Allocation methods on an Amazon Arts, Crafts, and Sewing review dataset containing more than 100,000 product reviews, aiming to uncover valuable insights from unstructured customer feedback. 
 
-Comparison of the LSA and LDA Results - Patterns, Insights
+## 📘 Notebook
+You can view the full code and analysis in [AmazonTextMiningProject.ipynb](./AmazonTextMiningProject.ipynb)
+
+## Comparison of the LSA and LDA Results - Patterns, Insights
 
 1. Topic Comparisons between LSA and LDA:
 
