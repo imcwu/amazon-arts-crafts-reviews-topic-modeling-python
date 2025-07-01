@@ -5,8 +5,13 @@ In this project, I conducted topic modeling using Latent Semantic Analysis and L
 You can view the full code and analysis in [AmazonTextMiningProject.ipynb](./AmazonTextMiningProject.ipynb)
 
 ## 📊 Topic Modeling Results
+### 🎯 Latent Semantic Analysis
+![LSAModelResults](images/LSAModelResults.png)
 
-## Comparison of the LSA and LDA Results - Patterns, Insights
+### ☁️ Latent Dirichlet Allocation
+![LDAModelResults](images/LDAModelResults.png)
+
+## 💡 Comparison of the LSA and LDA Results - Patterns, Insights
 
 1. Topic Comparisons between LSA and LDA:
 
