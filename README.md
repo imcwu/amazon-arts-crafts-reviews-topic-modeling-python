@@ -6,10 +6,10 @@ You can view the full code and analysis in [AmazonTextMiningProject.ipynb](./Ama
 
 ## 📊 Topic Modeling Results
 ### 🎯 Latent Semantic Analysis
-![LSAModelResults](images/LSAModelResults.png)
+![LSAModelResults](LSAModelResults.png)
 
 ### ☁️ Latent Dirichlet Allocation
-![LDAModelResults](images/LDAModelResults.png)
+![LDAModelResults](LDAModelResults.png)
 
 ## 💡 Comparison of the LSA and LDA Results - Patterns, Insights
 
